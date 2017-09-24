@@ -1,0 +1,9 @@
+spring data 项目是Spring用来解决数据访问问题的一揽子解决方案。
+Spring Data为我们使用统一的API来对不同的数据存储技术进行数据访问操作提供了支持。
+
+
+Spring data commons项目是各种spring data项目的依赖，Spring Data Commons让我们是使用
+关系型或非关系型数据访问技术时都基于Spring的统一标准。
+
+Spring data commons重要概念： Spring data Repository抽象
+使用它可以极大地减少数据访问层的代码。
